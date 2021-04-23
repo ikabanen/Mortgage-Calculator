@@ -1,0 +1,31 @@
+﻿<Window x:Class="MortgageCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MortgageCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lbl_Title" Content="Mortgage Calculator" HorizontalAlignment="Left" Margin="69,52,0,0" VerticalAlignment="Top" Height="49" Width="277" FontSize="24"/>
+        <Label x:Name="lbl_MonthlyCost" Content="Monthly Cost" HorizontalAlignment="Left" Margin="71,88,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label x:Name="lbl_Amount" Content="Mortgage Amt" HorizontalAlignment="Left" Margin="70,137,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="lbl_Interest" Content="Interest %" HorizontalAlignment="Left" Margin="338,137,0,0" VerticalAlignment="Top" Width="78"/>
+        <Label x:Name="lbl_Period" Content="Period / yrs" HorizontalAlignment="Left" Margin="584,137,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label x:Name="lbl_MonthlyPayments" Content="Monthly Payments" HorizontalAlignment="Left" Margin="259,233,0,0" VerticalAlignment="Top" Width="118"/>
+        <Button x:Name="lbl_Calculate" Content="Calculate" Margin="338,352,0,0" VerticalAlignment="Top" Height="41" HorizontalAlignment="Left" Width="152" Click="lbl_Calculate_Click"/>
+        <TextBox x:Name="Interest" HorizontalAlignment="Left" Margin="338,174,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Height="18"/>
+        <TextBox x:Name="Amount" HorizontalAlignment="Left" Margin="71,174,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <TextBox x:Name="Period" HorizontalAlignment="Left" Margin="583,174,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <TextBox x:Name="MonthlyPayments" HorizontalAlignment="Left" Margin="393,237,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" Height="22"/>
+        <Border BorderThickness="1" BorderBrush="Black" Margin="62,39,76,0" Height="87" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_TotalPrincipal" Content="Total Principal" HorizontalAlignment="Left" Margin="356,274,0,0" VerticalAlignment="Top" Width="118"/>
+        <Label x:Name="lbl_TotalInterest" Content="Total Interest" HorizontalAlignment="Left" Margin="561,274,0,0" VerticalAlignment="Top" Width="118"/>
+        <Label x:Name="lbl_TotalPayment" Content="Total Payment" HorizontalAlignment="Left" Margin="124,270,0,0" VerticalAlignment="Top" Width="118"/>
+        <TextBox x:Name="TotalPrincipal" HorizontalAlignment="Left" Margin="353,300,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" Height="22"/>
+        <TextBox x:Name="TotalPayment" HorizontalAlignment="Left" Margin="120,300,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" Height="22"/>
+        <TextBox x:Name="TotalInterest" HorizontalAlignment="Left" Margin="561,300,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="122" Height="22"/>
+        <Border BorderThickness="1" BorderBrush="Black" HorizontalAlignment="Center" Height="3" Margin="0,211,0,0" VerticalAlignment="Top" Width="732"/>
+
+    </Grid>
+</Window>
