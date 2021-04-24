@@ -1,5 +1,4 @@
-Simple Mortgage Calculator created in .Net Framework.
-
+# Simple Mortgage Calculator created in .Net Framework.
 
 
 ![](https://github.com/ikabanen/Mortgage-Calculator/blob/master/Mortgage_calculator.gif)
