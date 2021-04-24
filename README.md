@@ -2,7 +2,7 @@ Simple Mortgage Calculator created in .Net Framework.
 
 
 
-https://github.com/ikabanen/Mortgage-Calculator/blob/master/Mortgage_calculator.gif
+![](https://github.com/ikabanen/Mortgage-Calculator/blob/master/Mortgage_calculator.gif)
 
 
 >If you found information in this project helpful and want to thank me, consider buying me a cup of ☕
