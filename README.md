@@ -11,4 +11,11 @@ created in .Net Framework. 🤓
 >[Make a contribution](https://paypal.me/kabanenko?locale.x=en_US)
 >
 
-<img style="display: inline !important; width: 1em!important; height: 1em!important;" alt="🤓" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f913.svg">
+<img style="display: inline !important; border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;" alt="🤓" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f913.svg">
