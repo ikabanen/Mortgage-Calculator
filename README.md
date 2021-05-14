@@ -9,3 +9,6 @@ created in .Net Framework. 🤓
 >If you found information in this project helpful and want to thank me, consider buying me a cup of ☕
 >
 >[Make a contribution](https://paypal.me/kabanenko?locale.x=en_US)
+>
+
+<img draggable="false" class="emoji" alt="🤓" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f913.svg">
