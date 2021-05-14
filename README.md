@@ -11,4 +11,4 @@ created in .Net Framework. 🤓
 >[Make a contribution](https://paypal.me/kabanenko?locale.x=en_US)
 >
 
-<img style="width: 1em; height: 1em;" alt="🤓" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f913.svg">
+<img style="font-size: 14px; width: 10px; height: 10px;" alt="🤓" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f913.svg">
