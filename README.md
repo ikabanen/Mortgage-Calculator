@@ -10,5 +10,3 @@ created in .Net Framework. 🤓
 >
 >[Make a contribution](https://paypal.me/kabanenko?locale.x=en_US)
 >
-
-<img style="max-width: 30%;" alt="🤓" src="https://s.w.org/images/core/emoji/11.2.0/svg/1f913.svg">
