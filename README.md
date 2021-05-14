@@ -11,7 +11,7 @@ created in .Net Framework. 🤓
 >[Make a contribution](https://paypal.me/kabanenko?locale.x=en_US)
 >
 
-<img style="display: inline !important; border: none !important;
+<img style="max-width: 30%; display: inline !important; border: none !important;
     box-shadow: none !important;
     height: 1em !important;
     width: 1em !important;
